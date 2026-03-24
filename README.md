@@ -9,9 +9,9 @@
 8. git branch Lista ou cria novas branches.
 9. git checkout Troca de branch ou restaura arquivos.
 10. git merge Mescla mudanças de uma branch em outra.
-  COMANDOS DO GIT BASH
+        COMANDOS DO GIT BASH
 1. pwd Mostra o caminho da pasta atual.
-2. Lista os arquivos e pastas do diretório atual.
+2. ls Lista os arquivos e pastas do diretório atual.
 3. cd Muda para uma pasta.
 4. cd .. Volta para a pasta anterior.
 5. mkdir Cria uma nova pasta.
@@ -20,7 +20,7 @@
 8. clear Limpa o terminal.
 9. code .Abre a pasta no Visual Studio Code.
 10. exit Fecha o terminal.
-   COMANDOS DE CONTROLE DO GIT
+      COMANDOS DE CONTROLE DO GIT
 1. git config --list  Mostra todas as configurações atuais do Git.
 2. git config --global user.name "Seu Nome"  Define o nome do usuário no Git.
 3. git config --global user.email "seu@email.com"  Define o email do usuário no Git.
